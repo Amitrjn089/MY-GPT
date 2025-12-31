@@ -10,7 +10,8 @@ vennv/
 env/
 .env
 *.env
-
+.env
+Backend/.env
 # Local data & indexes (very important!)
 Backend/data/
 Backend/audio/
