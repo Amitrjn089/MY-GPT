@@ -1,0 +1,73 @@
+AYUSH ANAND
++91 9122253096 | anandayush865@gmail.com
+linkedin.com/in/ayush-anand | github.com/ayushanand | portfolio.ayushanand.com
+
+EDUCATION
+University Institute of Engineering and Technology - Panjab University
+Bachelor of Engineering in Electronics and Communication Engineering
+
+2022 – 2026
+Chandigarh, India
+
+PROFESSIONAL EXPERIENCE
+Full Stack Developer
+Superceuticals Private Limited
+
+Nov 2024 – Feb 2025
+Remote
+
+– Designed and deployed customer-focused software solutions that improved user experience and generated new business
+revenue streams
+– Collaborated with cross-functional stakeholders to define requirements and deliver features in an agile development
+environment
+– Optimized system performance and resolved critical defects to ensure high availability and fault-tolerant operation
+– Built scalable, maintainable back-end systems with focus on cost-efficient cloud architecture and measurable customer
+impact
+
+Freelance Full Stack Developer
+Heritage Sparrow & Other Startups
+
+2024 – 2025
+Remote
+
+– Delivered end-to-end full-stack solutions for multiple startup clients, focusing on rapid deployment and business value
+– Architected scalable web applications using modern frameworks and cloud infrastructure to meet client specifications
+
+TECHNICAL PROJECTS
+MV-LIVE: Movie Live Streaming Platform
+
+Link
+
+– Engineered data management solution using MongoDB GridFS to store and query large-scale metadata collections
+– Implemented real-time data synchronization of playback controls across multiple clients using Socket.io for consistent
+UX
+– Utilized WebRTC for efficient peer-to-peer data streaming to support group video calling with 100+ concurrent users
+– Developed video processing pipeline using ffmpeg to enable optimized quality livestreaming with 30% bandwidth
+reduction
+
+Vercel Clone – Deployment & Analytics Platform
+
+Link
+
+– Designed cloud-based process automation pipeline on AWS to manage complex software deployment and build tasks
+– Developed ETL system to extract project files, transform them into web-ready assets, and load into AWS S3 for
+retrieval
+– Utilized Redis for real-time log management and status reporting, showcasing in-memory data handling expertise
+– Built Node.js API server to programmatically manage AWS ECS tasks and deliver real-time deployment status updates
+
+TECHNICAL SKILLS
+Languages: Python, C++, Java, JavaScript, SQL, TypeScript , Python
+Cloud & Infrastructure: AWS (S3, ECS, Lambda, CloudFront), Docker, Redis, Git/GitHub, CI/CD
+Databases: MongoDB, PostgreSQL, MySQL, GridFS, Redis
+Frameworks & Libraries: Node.js, Express.js, React, Next.js
+Core Competencies: Distributed systems, real-time data synchronization, scalable architecture design, microservices, RESTful APIs, system optimization, agile development, customer-focused engineering
+
+LEADERSHIP & ACHIEVEMENTS
+– Smart India Hackathon 2024 Winner: Led team to build scalable solution under 36-hour deadline with customercentric approach
+– Team Lead, SAE (Software & Automation Engineering), Alpha Wing (Oct 2023 – Jul 2025): Led crossfunctional team to deliver multiple software projects end-to-end, mentoring peers and driving innovation in agile
+environment
+– Selected for SSB Kolkata through 10+2 Technical Entry Scheme (2022): Demonstrated leadership and
+technical aptitude
+– Delivered 10+ freelance projects for startups, consistently meeting tight deadlines while maintaining code quality
+
+
