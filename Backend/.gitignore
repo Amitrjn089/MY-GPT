@@ -1,1 +1,26 @@
+# Python / Virtual environments
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+.venv/
+vennv/
+env/
 .env
+*.env
+
+# Local data & indexes (very important!)
+Backend/data/
+Backend/audio/
+rag_index.faiss
+documents.pkl
+*.pkl
+*.faiss
+
+# macOS junk
+.DS_Store
+
+# Logs & temp
+*.log
