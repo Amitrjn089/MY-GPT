@@ -1,4 +1,4 @@
-# ZippiAi – Personal Digital Assistant
+# Personal Digital Assistant
 
 A **full-stack, local, privacy-first personal digital assistant** with real-time streaming responses, voice & text interaction, interruption support, and strict personal-data-only boundaries.
 
